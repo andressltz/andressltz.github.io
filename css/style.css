@@ -1,0 +1,105 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: 'Arial', sans-serif;
+    line-height: 1.6;
+    background-color: #f4f4f4;
+    color: #333;
+    padding: 20px;
+  }
+  
+  .container {
+    width: 80%;
+    margin: 0 auto;
+  }
+  
+  header {
+    text-align: center;
+    background-color: #222;
+    color: white;
+    padding: 50px 0;
+  }
+  
+  header h1 {
+    font-size: 2.5em;
+  }
+  
+  header h1 span {
+    color: #ff5722;
+  }
+  
+  header p {
+    font-size: 1.2em;
+    margin-top: 10px;
+  }
+  
+  section {
+    margin: 40px 0;
+  }
+  
+  section h2 {
+    font-size: 2em;
+    color: #222;
+    margin-bottom: 20px;
+  }
+  
+  #about p {
+    font-size: 1.1em;
+    color: #666;
+    line-height: 1.6;
+  }
+  
+  .project {
+    background-color: #fff;
+    padding: 20px;
+    margin-bottom: 20px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+  }
+  
+  .project h3 {
+    color: #333;
+  }
+  
+  .project a {
+    display: inline-block;
+    margin-top: 10px;
+    color: #ff5722;
+    text-decoration: none;
+  }
+  
+  .project a:hover {
+    text-decoration: underline;
+  }
+  
+  #contact p {
+    font-size: 1.1em;
+    color: #666;
+  }
+  
+  .social-links a {
+    margin-right: 15px;
+    color: #ff5722;
+    text-decoration: none;
+  }
+  
+  .social-links a:hover {
+    text-decoration: underline;
+  }
+  
+  footer {
+    text-align: center;
+    margin-top: 50px;
+    padding: 20px 0;
+    background-color: #222;
+    color: white;
+  }
+  
+  footer p {
+    font-size: 1em;
+  }
+  
